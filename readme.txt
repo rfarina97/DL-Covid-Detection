@@ -1,0 +1,2 @@
+Sobre los archivos
+Se ha adjuntado el código fuente bajo el nombre de “Rodolfo_Farina_Tarea-2.ipynb”, las predicciones para el conjunto de test están con el nombre de “predicted_rodolfo.csv”, y los pesos de la red que realizaron esa predicción están con el nombre de “simpleCNN.h5”.
